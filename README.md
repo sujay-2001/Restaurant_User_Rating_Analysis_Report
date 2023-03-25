@@ -1,5 +1,5 @@
 # Restaurant_User_Rating_Analysis_Report
-** Dataset Link: https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings ** \
+** Dataset Link: https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings ** 
 ## Ask:
 What significant features of a restaurant affect user's experience, in what way they affect them, what are
 user's interests and preferences, and understanding them to improve or change business processes 
